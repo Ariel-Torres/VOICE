@@ -1,0 +1,9 @@
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\WEBCOMMSERVICES\ReconocimientoVoz\ReconocimientoVoz\bin\Debug\ReconocimientoVoz.exe.config
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\WEBCOMMSERVICES\ReconocimientoVoz\ReconocimientoVoz\bin\Debug\ReconocimientoVoz.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\WEBCOMMSERVICES\ReconocimientoVoz\ReconocimientoVoz\bin\Debug\ReconocimientoVoz.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\WEBCOMMSERVICES\ReconocimientoVoz\ReconocimientoVoz\obj\Debug\ReconocimientoVoz.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\WEBCOMMSERVICES\ReconocimientoVoz\ReconocimientoVoz\obj\Debug\ReconocimientoVoz.Form1.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\WEBCOMMSERVICES\ReconocimientoVoz\ReconocimientoVoz\obj\Debug\ReconocimientoVoz.Properties.Resources.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\WEBCOMMSERVICES\ReconocimientoVoz\ReconocimientoVoz\obj\Debug\ReconocimientoVoz.csproj.GenerateResource.Cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\WEBCOMMSERVICES\ReconocimientoVoz\ReconocimientoVoz\obj\Debug\ReconocimientoVoz.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\WEBCOMMSERVICES\ReconocimientoVoz\ReconocimientoVoz\obj\Debug\ReconocimientoVoz.pdb
